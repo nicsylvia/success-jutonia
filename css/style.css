@@ -2,4 +2,7 @@
     padding: 300px;
     text-align: center;
     background-image:repeating-linear-gradient( red, blue 10%, yellow 20%);
+    font-size: 30px;
+    font-family: fantasy;
+    font-style: italic;
 }
