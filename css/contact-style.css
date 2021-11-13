@@ -7,3 +7,29 @@ body{
     width: 400px;
     background-color: gold;
 }
+
+.form{
+    /* justify-content: flex-end;
+    float: right;
+    bottom: 400px;
+    position: relative; */
+    /* display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-end;
+    flex-direction: column; */
+    /* margin-left: 500px;
+    margin-top: -400px; */
+     width: 500px;
+    /* float: right;  */
+}
+
+.contact{
+    width: 500px;
+}
+.containerr{
+    display: flex;
+}
+.flexx{
+    display: flex;
+    flex-direction: column;
+}
